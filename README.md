@@ -17,8 +17,8 @@ GitHub Pages builds the website from `main` and `/docs`. After you push a change
 
 ## Purpose and sources
 
-Replace this paragraph with two or three sentences about your guide's audience and purpose. The first eight resources were supplied by COMPSS 211A. Name the resource you added and link to the official webpage you used to check it.
+The website provides some brief info of UC Berkeley campus resources. Newly admitted students can refer to this website to navigate locations to study and fulfill basic needs, and places of interest. Besides the first 8 resources, I added Campanile to the page, because it is an iconic symbol of UC Berkeley. Its website is confirmed to be https://visit.berkeley.edu/campus-attractions/campanile, under the UC Berkeley domain.
 
 ## Website checks
 
-After publishing your changes, replace this paragraph with the live website link, the existing entry you improved, the new resource you added, and what you checked on the website. Say whether the displayed values match your CSV and whether the official links open the intended pages.
+The website is live at https://vwang02.github.io/hidden-berkeley/. I updated Morrison Library's info to reflect detailed entry policies and the Library's specific website. For Campanile, the new resource I added to the website, I checked its official website and added admission pricing to the page. The displayed values match my CSV. The official link for BAMPFA Film Library & Study Center is not specific enough; I replaced the original with https://bampfa.org/about/film-library-study-center.
