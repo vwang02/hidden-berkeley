@@ -3,9 +3,9 @@ layout: default
 title: Hidden Berkeley
 ---
 
-# Hidden Berkeley
+# Where should I go?
 
-A starting guide to Berkeley places and services. Check each resource's official webpage for current access details.
+Below you can find some commonly visited locations on and around the UC Berkeley Campus. Click on the links to learn more.
 
 <!-- Edit the heading and introduction above. The supplied loop below displays each row of the CSV. -->
 {% for resource in site.data.locations %}
